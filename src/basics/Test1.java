@@ -12,6 +12,7 @@ public class Test1 {
 		
 		//varaible utilization
 		System.out.println(a);
+	
 
 	}
 
