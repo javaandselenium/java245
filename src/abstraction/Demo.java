@@ -1,10 +1,8 @@
 package abstraction;
 
-public class Demo {
+public class Demo implements Amazon{
 
-	public static void main(String[] args) {
-		
+	
 
-	}
-
+	
 }
