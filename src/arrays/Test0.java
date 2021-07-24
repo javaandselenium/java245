@@ -9,11 +9,16 @@ public class Test0 {
 		a[2]=30;
 		a[3]=40;
 		a[4]=50;
-		a[5]=60;
 		
-		for(int i=0;i<=4;i++) {
-			System.out.println(a[i]);
+		
+//		for(int i=0;i<=4;i++) {
+//			System.out.println(a[i]);
+//		}
+		
+		for(int ele:a) {
+			System.out.println(ele);
 		}
+		
 	}
 
 }
